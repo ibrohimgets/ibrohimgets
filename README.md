@@ -9,20 +9,19 @@
 
 ## My Skills and Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-## Featured Project
+  <!-- Top Languages Graph -->
+  <div style="flex: 1; margin-right: 20px;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
+  </div>
 
-Here’s a snapshot of one of my recent projects:
+  <!-- Project Image -->
+  <div style="flex: 1;">
+    <img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 100%; max-width: 300px; height: auto;">
+  </div>
 
-<img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 300px; height: auto;">
-
-## Contact Me
-
-Feel free to get in touch through any of the following methods:
-
-<!-- Contact Buttons -->
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+</div>
 
   <!-- Email Button -->
   <a href="mailto:ibrohimuminov@gmail.com" style="
