@@ -8,4 +8,5 @@
 🔐 Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
 
-[![Ibrohim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ibrohimgets&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ibrohimgets)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=javascript,css,scss,html&theme=tokyonight)
+
