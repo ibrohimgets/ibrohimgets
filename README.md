@@ -11,6 +11,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
 
+## Featured Project
+
+Here’s a snapshot of one of my recent projects:
+
+![Project Image](https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png)  
+*Description of the project or a brief explanation of what’s shown in the image.*
+
 ## Contact Me
 
 Feel free to get in touch through any of the following methods:
