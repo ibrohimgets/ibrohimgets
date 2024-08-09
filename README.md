@@ -15,8 +15,7 @@
 
 Here’s a snapshot of one of my recent projects:
 
-![Project Image](https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png)  
-*Description of the project or a brief explanation of what’s shown in the image.*
+<img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 300px; height: auto;">
 
 ## Contact Me
 
