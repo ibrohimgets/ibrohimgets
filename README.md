@@ -7,5 +7,5 @@
 🔍 Focus Areas: 
 🔐 Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ibrohimgets=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
