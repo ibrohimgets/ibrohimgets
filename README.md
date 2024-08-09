@@ -4,7 +4,7 @@
 
 🐍 **Multimedia Engineering**  
 🎓 Doing a Master's degree in Computer Science and AI at Dongguk University.  
-🌍 I enjoy exploring quiet places and traveling to destinations both new and familiar.  
+🌍 Enjoy quiet places and traveling, even to places I've been before.  
 🔍 **Focus Areas:** Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
 ## My Skills and Top Languages
