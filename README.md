@@ -10,7 +10,7 @@
 ## My Skills and Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
-<img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 300px; height: 280px; margin-left: 10px">
+<img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 300px; height: 280px; margin-left: 50px">
 
 ## Contact Me
 
