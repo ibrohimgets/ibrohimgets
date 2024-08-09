@@ -8,5 +8,5 @@
 🔐 Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ibrohimgets=ibrohimgets&hide=javascript,css,scss,html&theme=tokyonight)
 
