@@ -7,3 +7,9 @@
 🔍 Focus Areas: 
 🔐 Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
+
+
+
+
+![ibrohimgets's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+
