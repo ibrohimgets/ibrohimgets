@@ -31,7 +31,7 @@ Feel free to get in touch through any of the following methods:
   ">📧 Email Me</a>
 
   <!-- LinkedIn Button -->
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ibrohim-muminov-775650259/)" style="
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ibrohim-muminov-775650259/)" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
