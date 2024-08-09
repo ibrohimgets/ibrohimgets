@@ -13,18 +13,7 @@
 # Contact Me
 
 <!-- Contact Button -->
-<a href="ibrohimuminov@gmail.com" style="
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: #ffffff;
-  background-color: #007bff; /* Bootstrap primary color */
-  border-radius: 5px;
-  text-decoration: none;
-  text-align: center;
-  margin-top: 10px;
-  font-weight: bold;
-">Gmail</a>
+<a href="ibrohimuminov@gmail.com">Gmail</a>
 
 
 
