@@ -2,8 +2,8 @@
 
 ## About Me
 
-🐍 **Python for Multimedia Engineering**  
-🎓 Currently pursuing a Master's degree in Computer Science and AI at Dongguk University.  
+🐍 **Multimedia Engineering**  
+🎓 Doing a Master's degree in Computer Science and AI at Dongguk University.  
 🌍 I enjoy exploring quiet places and traveling to destinations both new and familiar.  
 🔍 **Focus Areas:** Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
