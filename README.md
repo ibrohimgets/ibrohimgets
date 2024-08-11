@@ -1,9 +1,9 @@
-# Welcome to My GitHub Profile
+# Welcome!
 
 ## About Me
 
-🐍 **Multimedia Engineering**  
 🎓 Doing a Master's degree in Computer Science and AI at Dongguk University.  
+🐍 **Multimedia Engineering**  
 🌍 Enjoy quiet places and traveling, even to places I've been before.  
 🔍 **Focus Areas:** Advanced Deep Learning Approaches for Cybersecurity and System Protection
 
