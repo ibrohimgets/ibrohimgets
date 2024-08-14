@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
 <img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 350px; height: 285px; border-radius: 10px;">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,sklearn,js,react,nodejs,html,css,sass,github,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,sklearn,js,react,nodejs,html,css,sass,github,vscode,jupyter&theme=light)](https://skillicons.dev)
 
 
 ## Contact Me
