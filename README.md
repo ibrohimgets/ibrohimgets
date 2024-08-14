@@ -1,7 +1,5 @@
 # Welcome!
 
-## About Me
-
 🎓 Doing a Master's degree in Computer Science and AI at Dongguk University.  
 🐍 **Multimedia Engineering**.
 🌍 Enjoy quiet places and traveling, even to places I've been before.  
@@ -10,6 +8,7 @@
 ## My Skills and Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
 <img src="https://github.com/ibrohimgets/Matplotlib-in-Python/blob/master/heart_disease_analysis.png" alt="Project Image" style="width: 350px; height: 285px; border-radius: 10px;">
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 ## Contact Me
