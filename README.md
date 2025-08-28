@@ -1,9 +1,9 @@
 ## Welcome!
 
-🎓 Doing a Master's degree in Computer Science and AI at Dongguk University.  
-🐍 **Multimedia Engineering**.
-🌍 Enjoy quiet places and traveling, even to places I've been before.  
-🔍 **Focus Areas:** Advanced Deep Learning Approaches for ROBOTICS, using both Computer Vision and an NLP.
+Doing a Master's degree in Computer Science and AI at Dongguk University.  
+**Multimedia Engineering**.
+Enjoy quiet places and traveling, even to places I've been before.  
+**Focus Areas:** Advanced Deep Learning Approaches for ROBOTICS, using both Computer Vision and an NLP.
 
 ## My Skills and Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohimgets&hide=html,css,scss,typescript,shell&theme=tokyonight)
