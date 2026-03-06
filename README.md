@@ -1,10 +1,7 @@
 ## Welcome!
 
-Doing a Master's degree in Computer Science and AI at Dongguk University.  
-Majoring in AI.
-Enjoy quiet places and traveling, even to places I've been before.  
-**Focus Areas:** Advanced Deep Learning Approaches for ROBOTICS, using both Computer Vision and an NLP.
-
+Senior Master’s student majoring in AI at Dongguk University, with a strong interest in vision-language-reasoning models and context-aware AI systems.
+Making machines understand context while detecting objects! 
 
 
 
