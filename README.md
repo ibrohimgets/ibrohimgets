@@ -1,6 +1,6 @@
 ## Welcome!
 
-Senior Master’s student majoring in AI at Dongguk University, with a strong interest in vision-language-reasoning models and context-aware AI systems.
+Senior Master’s student majoring in AI at Dongguk University, with a strong interest in VisionLanguageModel and context-aware AI systems.
 Making machines understand context while detecting objects! 
 
 
