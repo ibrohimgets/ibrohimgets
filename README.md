@@ -1,70 +1,13 @@
-## Welcome!
+### Ibrohimjon Muminov
 
-Senior Master’s student majoring in AI at Dongguk University, with a strong interest in VisionLanguageModel and context-aware AI systems.
-Making machines understand context while detecting objects! 
+M.S. student in Artificial Intelligence at Dongguk University, working on multimodal AI — getting language models and computer vision to work together so a system can reason about what it's looking at, not just label it.
 
+**Currently exploring:** visual grounding, open-world object detection, vision-language models.
 
+**Recent work**
+- Semantic planning and candidate reasoning for visual grounding — ACCV 2026, under review (code private during review)
+- [thinkdet](https://github.com/ibrohimgets/thinkdet) — an MLLM-to-detector adapter for ambiguity-heavy grounding
+- [Vague2Detect](https://github.com/ibrohimgets/Vague2Detect) — open-world detection from vague, functional prompts (AIComPS 2025)
+- [CommonsenseVision](https://github.com/ibrohimgets/CommonsenseVision) — commonsense-guided open-world object detection (ASK 2025)
 
-## Contact Me
-
-Feel free to get in touch through any of the following methods:
-
-  <!-- Email Button -->
-  <a href="mailto:ibrohimuminov@gmail.com" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #ffffff;
-    background-color: #007bff; /* Bootstrap primary color */
-    border-radius: 5px;
-    text-decoration: none;
-    text-align: center;
-    margin-bottom: 10px;
-    font-weight: bold;
-  ">📧 Email Me</a>
-
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/ibrohim-muminov-775650259/" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #ffffff;
-    background-color: #0077b5; /* LinkedIn color */
-    border-radius: 5px;
-    text-decoration: none;
-    text-align: center;
-    margin-bottom: 10px;
-    font-weight: bold;
-  ">🔗 LinkedIn</a>
-
-
-
-  <!-- Instagram Button -->
-  <a href="https://www.instagram.com/iibrohimm/" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #ffffff;
-    background-color: #c13584; /* Instagram color */
-    border-radius: 5px;
-    text-decoration: none;
-    text-align: center;
-    margin-bottom: 10px;
-    font-weight: bold;
-  ">📸 Instagram</a>
-
-  <!-- Phone Button -->
-  <a href="tel:+821074860095" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #ffffff;
-    background-color: #28a745; /* Phone color */
-    border-radius: 5px;
-    text-decoration: none;
-    text-align: center;
-    margin-bottom: 10px;
-    font-weight: bold;
-  ">📞 Call Me</a>
-
-</div>
+More at [ibrohimjon.com](https://ibrohimjon.com) · [ibrohimuminov@gmail.com](mailto:ibrohimuminov@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrohim-muminov-775650259/)
