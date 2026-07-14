@@ -10,4 +10,4 @@ M.S. student in Artificial Intelligence at Dongguk University, working on multim
 - [Vague2Detect](https://github.com/ibrohimgets/Vague2Detect) — open-world detection from vague, functional prompts (AIComPS 2025)
 - [CommonsenseVision](https://github.com/ibrohimgets/CommonsenseVision) — commonsense-guided open-world object detection (ASK 2025)
 
-More at [ibrohimjon.com](https://ibrohimjon.com) · [ibrohimuminov@gmail.com](mailto:ibrohimuminov@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrohim-muminov-775650259/)
+More at [ibrohimgets.github.io](https://ibrohimgets.github.io/) · [ibrohimuminov@gmail.com](mailto:ibrohimuminov@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrohim-muminov-775650259/)
