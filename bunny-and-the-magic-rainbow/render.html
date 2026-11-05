@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Render target</title>
+<style>
+  @font-face { font-family: "Fredoka"; font-weight: 600; src: url("assets/fonts/fredoka-600-latin.woff2") format("woff2"); }
+  html, body { margin: 0; background: #000; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<script src="src/timeline.js"></script>
+<script src="src/engine.js"></script>
+<script src="src/scenes.js"></script>
+<script>
+  // Used by tools/export_mp4.mjs: draws one frame and returns it as a JPEG data URL.
+  const cv = document.getElementById("c"), ctx = cv.getContext("2d");
+  window.ready = document.fonts.load('600 60px "Fredoka"').then(() => document.fonts.ready).then(() => true);
+  window.renderFrame = (t, quality = 0.92, scale = 1) => {
+    if (cv.width !== Math.round(1920 * scale)) { cv.width = Math.round(1920 * scale); cv.height = Math.round(1080 * scale); }
+    ctx.setTransform(scale, 0, 0, scale, 0, 0);
+    CARTOON.render(ctx, t, { subtitles: true });
+    return cv.toDataURL("image/jpeg", quality);
+  };
+</script>
+</body>
+</html>

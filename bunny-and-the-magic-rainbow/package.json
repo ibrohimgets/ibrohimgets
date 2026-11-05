@@ -1,0 +1,16 @@
+{
+  "name": "bunny-and-the-magic-rainbow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 2-minute animated cartoon for children aged 4-5, drawn with HTML5 Canvas.",
+  "type": "module",
+  "scripts": {
+    "preview": "node tools/serve.mjs 8080",
+    "audio": "python3 tools/build_audio.py",
+    "export": "node tools/export_mp4.mjs",
+    "export:quick": "node tools/export_mp4.mjs --scale 0.5 --out output/preview-540p.mp4"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}

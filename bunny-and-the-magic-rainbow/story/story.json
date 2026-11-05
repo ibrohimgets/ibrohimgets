@@ -1,0 +1,92 @@
+{
+  "title": "Bunny and the Magic Rainbow",
+  "duration": 120,
+  "fps": 30,
+  "voices": {
+    "narrator": { "model": "en_US-amy-medium", "speaker": 0,   "semitones": 1.0, "length": 1.08, "gain": 1.0 },
+    "bobo":     { "model": "en_US-libritts_r-medium", "speaker": 54,  "semitones": 3.5, "length": 1.0,  "gain": 1.0 },
+    "mimi":     { "model": "en_US-libritts_r-medium", "speaker": 60,  "semitones": 2.0, "length": 1.05, "gain": 1.0 },
+    "pip":      { "model": "en_US-libritts_r-medium", "speaker": 150, "semitones": 6.0, "length": 0.95, "gain": 0.95 },
+    "bizzy":    { "model": "en_US-libritts_r-medium", "speaker": 408, "semitones": 4.5, "length": 1.0,  "gain": 0.95 },
+    "hoppy":    { "model": "en_US-libritts_r-medium", "speaker": 30,  "semitones": -1.0, "length": 1.0, "gain": 1.0 },
+    "nutty":    { "model": "en_US-libritts_r-medium", "speaker": 162, "semitones": 5.0, "length": 0.95, "gain": 0.95 }
+  },
+  "names": {
+    "narrator": "Narrator", "bobo": "Bobo", "mimi": "Mimi", "pip": "Pip",
+    "bizzy": "Bizzy", "hoppy": "Hoppy", "nutty": "Nutty", "all": "Everyone", "bobo+mimi": "Bobo & Mimi"
+  },
+  "lines": [
+    { "id": "s1_title",   "t": 0.7,   "who": "narrator", "text": "Bunny and the Magic Rainbow!" },
+    { "id": "s1_intro",   "t": 4.0,   "who": "narrator", "text": "In the Colorful Forest, a little bunny named Bobo wakes up." },
+    { "id": "s1_morning", "t": 8.4,   "who": "bobo",     "text": "Good morning, sun! Good morning, rainbow!" },
+    { "id": "s1_ohno",    "t": 14.3,  "who": "bobo",     "text": "Oh no! The rainbow lost its colors!" },
+    { "id": "s1_find",    "t": 17.3,  "who": "bobo",     "text": "I will find them!" },
+
+    { "id": "s2_wait",    "t": 20.9,  "who": "mimi",     "text": "Bobo! Wait for me!" },
+    { "id": "s2_hi",      "t": 23.5,  "who": "mimi",     "text": "Hee hee! Hi, Bobo!" },
+    { "id": "s2_together","t": 25.6,  "who": "bobo",     "text": "Hi, Mimi! Let's find the colors together!" },
+    { "id": "s2_yay",     "t": 28.7,  "who": "mimi",     "text": "Yay! Together!" },
+    { "id": "s2_kite",    "t": 30.4,  "who": "pip",      "text": "Tweet! My kite is stuck in the tree!" },
+    { "id": "s2_hop",     "t": 33.0,  "who": "mimi",     "text": "Hop up, Bobo!" },
+    { "id": "s2_thanks",  "t": 36.3,  "who": "pip",      "text": "Thank you, friends!" },
+    { "id": "s2_redor",   "t": 38.1,  "who": "bobo",     "text": "Red and orange!" },
+
+    { "id": "s3_hello",   "t": 41.3,  "who": "bizzy",    "text": "Bzz! Hello! My sunflowers are thirsty!" },
+    { "id": "s3_water",   "t": 44.9,  "who": "mimi",     "text": "I have water!" },
+    { "id": "s3_help",    "t": 46.4,  "who": "bobo",     "text": "Let's help!" },
+    { "id": "s3_hooray",  "t": 52.7,  "who": "bizzy",    "text": "Hooray! Thank you!" },
+    { "id": "s3_yellow",  "t": 54.8,  "who": "narrator", "text": "Yellow is back! Helping makes everyone smile." },
+
+    { "id": "s4_ribbit",  "t": 61.3,  "who": "hoppy",    "text": "Ribbit! Can you hop like me?" },
+    { "id": "s4_count",   "t": 64.0,  "who": "bobo",     "text": "Yes! Let's count!" },
+    { "id": "s4_one",     "t": 66.2,  "who": "bobo",     "text": "One!" },
+    { "id": "s4_two",     "t": 67.4,  "who": "bobo",     "text": "Two!" },
+    { "id": "s4_three",   "t": 68.6,  "who": "bobo",     "text": "Three!" },
+    { "id": "s4_myturn",  "t": 69.5,  "who": "mimi",     "text": "My turn!" },
+    { "id": "s4_splashy", "t": 72.0,  "who": "mimi",     "text": "Hee hee! I'm a splashy bear!" },
+    { "id": "s4_gb",      "t": 74.6,  "who": "hoppy",    "text": "Green and blue! Hooray!" },
+    { "id": "s4_laugh",   "t": 77.0,  "who": "narrator", "text": "Laughing with friends is fun!" },
+
+    { "id": "s5_oops",    "t": 82.3,  "who": "nutty",    "text": "Oopsie! My berries!" },
+    { "id": "s5_help",    "t": 84.5,  "who": "bobo",     "text": "We can help! Let's count them!" },
+    { "id": "s5_1",       "t": 87.8,  "who": "mimi",     "text": "One!" },
+    { "id": "s5_2",       "t": 88.8,  "who": "bobo",     "text": "Two!" },
+    { "id": "s5_3",       "t": 89.8,  "who": "mimi",     "text": "Three!" },
+    { "id": "s5_4",       "t": 90.8,  "who": "bobo",     "text": "Four!" },
+    { "id": "s5_5",       "t": 91.8,  "who": "bobo+mimi","text": "Five!" },
+    { "id": "s5_kind",    "t": 94.2,  "who": "nutty",    "text": "Thank you! You are so kind!" },
+    { "id": "s5_home",    "t": 96.7,  "who": "bobo",     "text": "We found all the colors! Let's go!" },
+
+    { "id": "s6_together","t": 103.1, "who": "bobo",     "text": "Everyone, let's do it together!" },
+    { "id": "s6_rainbow", "t": 105.9, "who": "all",      "text": "One, two, three... Rainbow!" },
+    { "id": "s6_lesson",  "t": 111.4, "who": "narrator", "text": "When we help our friends, the whole world gets brighter!" },
+    { "id": "s6_bye",     "t": 116.0, "who": "bobo+mimi","text": "Bye-bye, friends!" }
+  ],
+  "groups": {
+    "all": ["bobo", "mimi", "pip", "hoppy", "nutty", "bizzy"],
+    "bobo+mimi": ["bobo", "mimi"]
+  },
+  "sfx": [
+    ["twinkle", 0.2], ["chirp", 3.4], ["chirp", 3.8], ["pop", 5.0], ["boing", 5.35], ["yawn_chime", 6.4],
+    ["chirp", 9.6], ["wobble", 11.8], ["poof", 13.0], ["whoosh", 13.1], ["sad_trombone", 13.6], ["boing", 14.1],
+    ["boing", 17.6], ["boing", 18.3], ["boing", 19.0],
+
+    ["boing", 20.2], ["slide_whistle", 21.6], ["tumble", 22.0], ["bonk", 23.15], ["dizzy", 23.3], ["clap", 29.9], ["twinkle", 30.0],
+    ["chirp", 30.2], ["boing", 33.9], ["rustle", 34.6], ["pop", 35.1], ["twinkle", 35.3], ["ding", 36.1], ["ding", 36.6], ["chirp", 37.4],
+
+    ["steps", 40.0, 1.8], ["buzz", 40.4, 3.0], ["pop", 44.8], ["pour", 47.4, 3.4], ["grow", 47.9], ["grow", 48.5], ["grow", 49.1], ["grow", 49.7], ["grow", 50.3],
+    ["twinkle", 51.3], ["ding", 52.3], ["buzz", 52.6, 1.8], ["steps", 58.3, 1.7],
+
+    ["steps", 60.0, 1.4], ["ribbit", 60.7], ["boing", 66.0], ["splash_small", 66.5], ["boing", 67.2], ["splash_small", 67.7],
+    ["boing", 68.4], ["splash_small", 68.9], ["boing", 70.5], ["slide_whistle", 70.6], ["splash", 71.2], ["twinkle", 72.4], ["ding", 73.3],
+    ["twinkle", 73.0], ["ding", 73.9], ["ribbit", 76.3],
+
+    ["steps", 80.0, 1.2], ["trip", 81.0], ["pop", 81.4], ["pop", 81.6], ["pop", 81.8], ["pop", 82.0], ["pop", 82.2],
+    ["count", 87.8, 1], ["count", 88.8, 2], ["count", 89.8, 3], ["count", 90.8, 4], ["count", 91.8, 5],
+    ["twinkle", 92.9], ["ding", 93.8], ["squeak", 96.2], ["steps", 98.4, 1.6],
+
+    ["steps", 100.0, 1.5], ["chirp", 100.7], ["buzz", 101.0, 1.4], ["ribbit", 101.7], ["squeak", 102.3],
+    ["drumroll", 108.2, 0.9], ["magic", 109.1], ["whoosh", 109.0], ["fanfare", 110.6], ["boing", 110.9], ["boing", 111.7],
+    ["twinkle", 114.8], ["twinkle", 117.6], ["finale_chime", 118.2]
+  ]
+}
